@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+***********************************************************************
+                         Bill Details                                  
+***********************************************************************
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The name of the customer is: sd
+Returned item name is: Cop Costume
+brand items are: Cartmax
+Date and time returned by the customer is: 2022-8-24 23:14:22
+The total price of the customer is : $15.0
+The quantity of the customer is : [12.0]
+The total price and fine with of the customer is: $12.0
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

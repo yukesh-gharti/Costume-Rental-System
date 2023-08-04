@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+***********************************************************************
+                         Bill Details                                  
+***********************************************************************
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The name of the customer is: we
+Returned item name is: Formal Suite,Cop Costume
+brand items are: Megaplex,Cartmax
+Date and time returned by the customer is: 2022-8-24 23:14:51
+The total price of the customer is : $44.0
+The quantity of the customer is : [21.0, 13.0]
+The total price and fine with of the customer is: $52.800000000000004
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
